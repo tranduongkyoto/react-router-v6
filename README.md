@@ -1,6 +1,6 @@
 # React Router new version(v6) Example
 
-Follow up to original post in medium : https://nabendu82.medium.com/react-router-v6-with-a-project-e4744d4d693f
+Follow original post in medium : https://nabendu82.medium.com/react-router-v6-with-a-project-e4744d4d693f
 
 ## Available Scripts
 
