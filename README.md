@@ -1,5 +1,7 @@
 # React Router new version(v6) Example
 
+Tech Stack: React, React Router(v6)
+
 Follow original post in medium : https://nabendu82.medium.com/react-router-v6-with-a-project-e4744d4d693f
 
 ## Available Scripts
